@@ -8,8 +8,7 @@
 
 <h3 align="left">🔎Sobre mim:</h3>
 
-<p align="justify">Sou um estudante de Ciência da Computação que estar aprendendo cada vez mais sobre esse universo dinâmico e criativo. Estou me aprofundando em desenvolvimento voltado para o Back-end mas tenho interesse em
-  ter habilidade o suficiente para ser um profissional Full-Stack para cumprir diferentes demandas e aproveitar difentes oportunidades que podem aparecer.
+<p align="justify"> Estudante de Sistemas de Informação com interesse e foco em desenvolvimento backend. Esse repósitório serve para armazenar alguns trabalhos da faculdade ou projetos pessoais meus. Quero fazer como se fosse uma linha do tempo da minha evolução, espero lembrar de atualizar aqui constântemente :)
 <br>
  Gosto de animais e do Gengar(e várias outras coisas também :) ) .</p>
 
