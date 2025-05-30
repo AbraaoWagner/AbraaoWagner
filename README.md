@@ -8,7 +8,7 @@
 
 <h3 align="left">🔎Sobre mim:</h3>
 
-<p align="justify"> Estudante de Sistemas de Informação com interesse e foco em desenvolvimento backend. Esse repósitório serve para armazenar alguns trabalhos da faculdade ou projetos pessoais meus. Quero fazer como se fosse uma linha do tempo da minha evolução, espero lembrar de atualizar aqui constântemente :)
+<p align="justify"> Estudante de Sistemas de Informação com interesse e foco em desenvolvimento backend. Esse repósitório serve para armazenar alguns trabalhos da faculdade ou projetos pessoais meus. 
 <br>
  Gosto de animais e do Gengar(e várias outras coisas também :) ) .</p>
 
