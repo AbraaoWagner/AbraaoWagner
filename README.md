@@ -6,13 +6,6 @@
 
 
 
-<h3 align="left">🔎Sobre mim:</h3>
-
-<p align="justify"> Estudante de Sistemas de Informação com interesse e foco em desenvolvimento backend. Esse repósitório serve para armazenar alguns trabalhos da faculdade ou projetos pessoais meus. 
-<br>
- Gosto de animais e do Gengar(e várias outras coisas também :) ) .</p>
-
-
 ### Redes Sociais e Contatos🤳
 
 
@@ -23,39 +16,10 @@
 
 
 
-<h3 align="left">Linguagens de Programação🧑‍💻</h3>
-
-<br clear="both">
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="60" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-</div>
 
 
 
 
-
-<h3 align="left">Ferramentas e FrameWorks⚒️</h3>
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="70" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="70" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg" height="70" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="70" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="70" alt="dot-net logo"  />
-</div>
 
 
 
